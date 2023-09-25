@@ -1,0 +1,14 @@
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\bin\Debug\net6.0\26_TranGiaBao_Demo34.exe
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\bin\Debug\net6.0\26_TranGiaBao_Demo34.deps.json
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\bin\Debug\net6.0\26_TranGiaBao_Demo34.runtimeconfig.json
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\bin\Debug\net6.0\26_TranGiaBao_Demo34.dll
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\bin\Debug\net6.0\26_TranGiaBao_Demo34.pdb
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.GeneratedMSBuildEditorConfig.editorconfig
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.AssemblyInfoInputs.cache
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.AssemblyInfo.cs
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.csproj.CoreCompileInputs.cache
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.dll
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\refint\26_TranGiaBao_Demo34.dll
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.pdb
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\26_TranGiaBao_Demo34.genruntimeconfig.cache
+E:\FU-Sem7\PRN221\Demo_Slot\26_TranGiaBao_Slot7\26_TranGiaBao_Demo34\obj\Debug\net6.0\ref\26_TranGiaBao_Demo34.dll
